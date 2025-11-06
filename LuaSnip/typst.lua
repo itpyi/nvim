@@ -27,4 +27,7 @@ s({trig=";eq", dscr="display equation", snippetType="autosnippet", wordTrig=fals
      { i(1) }
   )
 ),
+s({trig=";ptl", dscr="partial", snippetType="autosnippet", wordTrig=false},
+  {t("partial"),}
+),
 }
